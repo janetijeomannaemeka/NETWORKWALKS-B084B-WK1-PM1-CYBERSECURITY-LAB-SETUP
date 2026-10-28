@@ -75,7 +75,7 @@ Subnet Mask: 255.255.255.0
 Gateway: 10.0.0.1
 DNS: 8.8.8.8
 A Static IP address makes it easier to document the lab and reference the Kali machine in future exercises.
-![Editing wired connections](Editing-wired-connections.png)
+![Editing wired connections](https://github.com/janetijeomannaemeka/NETWORKWALKS-B084B-WK1-PM1-CYBERSECURITY-LAB-SETUP/blob/main/NAT%20NETWORK%20SETTINGS.png?raw=true)
 ## Step 6. Create a Clean VM Snapshot
 After the successful configuration, a VirtualBox snapshot was created.
 The snapshot name:
