@@ -52,7 +52,7 @@ Network Name: NatNetwork
 IPv4 Prefix:  10.0.0.0/24
 DHCP:         Enabled
 IPv6:         Disabled
-![NAT Network settings](NatNetwork.png)
+![NAT Network settings](Editing-wired-Connections)
 A NAT Network was selected because multiple virtual machines connected to the same NAT Network can communicate with one another while also having outbound network connectivity.
 This network allow future attacker and target VMs to communicate within the lab.
 ## Step 4. Import Kali Linux
